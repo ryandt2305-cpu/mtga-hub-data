@@ -1,0 +1,16 @@
+[project]
+name = "mtga-hub-data"
+version = "0.1.0"
+description = "MTGA Hub external-data aggregator"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra -q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "SIM"]
