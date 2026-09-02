@@ -1,0 +1,97 @@
+{
+  "formats": {
+    "alchemy_bo1": {
+      "aetherhub_format_key": "Alchemy-BO1",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "alchemy_bo3": {
+      "aetherhub_format_key": "Traditional-Alchemy",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "brawl100": {
+      "aetherhub_format_key": "Historic-Brawl",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "explorer_bo1": {
+      "aetherhub_format_key": "Explorer-BO1",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "explorer_bo3": {
+      "aetherhub_format_key": "Traditional-Explorer",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "historic_bo1": {
+      "aetherhub_format_key": "Historic-BO1",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "historic_bo3": {
+      "aetherhub_format_key": "Traditional-Historic",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "standard_bo1": {
+      "aetherhub_format_key": "Standard-BO1",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "standard_bo3": {
+      "aetherhub_format_key": "Traditional-Standard",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "standardbrawl60": {
+      "aetherhub_format_key": "Brawl",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "timeless_bo1": {
+      "aetherhub_format_key": "Timeless",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    },
+    "timeless_bo3": {
+      "aetherhub_format_key": "Traditional-Timeless",
+      "archetypes": [],
+      "sample_size": null,
+      "sample_window_days": null,
+      "single_source": true
+    }
+  },
+  "generated_at": "2026-09-02T00:42:10Z",
+  "schema_version": 1,
+  "sources": [
+    {
+      "fetched_at": "2026-09-02T00:42:10Z",
+      "name": "aetherhub",
+      "url": "https://aetherhub.com/Metagame/"
+    }
+  ]
+}
