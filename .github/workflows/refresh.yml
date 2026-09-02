@@ -1,0 +1,33 @@
+name: Refresh meta snapshot
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Build snapshot
+        run: python -m scripts.build_meta
+      - name: Commit + push if changed
+        run: |
+          if [[ -n "$(git status --porcelain data/meta.json)" ]]; then
+            git config user.name  "mtga-hub-data bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add data/meta.json
+            git commit -m "chore(data): refresh meta.json ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push origin main
+          else
+            echo "no changes to data/meta.json"
+          fi
