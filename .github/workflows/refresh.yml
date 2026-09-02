@@ -18,6 +18,8 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: Install Chromium for Playwright fallback
+        run: playwright install chromium --with-deps
       - name: Build snapshot
         run: python -m scripts.build_meta
       - name: Commit + push if changed

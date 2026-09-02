@@ -189,18 +189,61 @@ def parse_decklist(html: str) -> list[CardEntry]:
     return out
 
 
+def _fetch_html(url: str) -> str:
+    """Fetch a URL, preferring curl_cffi's Chrome-fingerprinted client
+    and falling back to a headless Playwright Chromium on 403 / any
+    connection failure. GitHub Actions runners hit Cloudflare's
+    datacenter-IP block on Aetherhub, and only a real browser (Playwright)
+    is reliably allowed through.
+    """
+    import sys
+
+    from curl_cffi import requests as ccr
+
+    try:
+        resp = ccr.get(url, impersonate="chrome124", timeout=30)
+        resp.raise_for_status()
+        return resp.text
+    except Exception as first_err:  # noqa: BLE001
+        print(
+            f"[warn] curl_cffi failed for {url}: {first_err} — falling back to Playwright",
+            file=sys.stderr,
+        )
+        return _fetch_via_playwright(url)
+
+
+def _fetch_via_playwright(url: str) -> str:
+    from playwright.sync_api import sync_playwright
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        try:
+            context = browser.new_context(
+                user_agent=(
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/124.0.0.0 Safari/537.36"
+                ),
+            )
+            page = context.new_page()
+            page.goto(url, timeout=45_000, wait_until="domcontentloaded")
+            # Give Cloudflare's challenge script a moment to release the page.
+            import contextlib
+            with contextlib.suppress(Exception):
+                page.wait_for_load_state("networkidle", timeout=20_000)
+            return page.content()
+        finally:
+            browser.close()
+
+
 def fetch_tier_list_html(url_path: str) -> str:
     """Fetch a tier-list page. url_path is the Aetherhub URL slug after the
     base (e.g. 'Historic-Brawl', 'Traditional-Standard'). Kept as a thin
     fetch wrapper so tests can exercise parse_tier_list against fixtures
     without touching the network.
     """
-    from curl_cffi import requests as ccr
-
     url = f"{AETHERHUB_BASE}/Metagame/{url_path}/"
-    resp = ccr.get(url, impersonate="chrome124", timeout=30)
-    resp.raise_for_status()
-    return resp.text
+    return _fetch_html(url)
 
 
 def fetch_tier_list(url_path: str) -> list[Archetype]:
@@ -208,8 +251,4 @@ def fetch_tier_list(url_path: str) -> list[Archetype]:
 
 
 def fetch_decklist(url: str) -> list[CardEntry]:
-    from curl_cffi import requests as ccr
-
-    resp = ccr.get(url, impersonate="chrome124", timeout=30)
-    resp.raise_for_status()
-    return parse_decklist(resp.text)
+    return parse_decklist(_fetch_html(url))
