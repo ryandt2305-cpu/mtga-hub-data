@@ -4668,16 +4668,6 @@
         },
         {
           "colors": [
-            "W"
-          ],
-          "decklist": [],
-          "meta_share": 0.0123,
-          "name": "Elspeth, Storm Slayer",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-Brawl/Deck/elspeth-storm-slayer-1428530",
-          "sample_count": 1305
-        },
-        {
-          "colors": [
             "U",
             "G"
           ],
@@ -4866,6 +4856,16 @@
         },
         {
           "colors": [
+            "W"
+          ],
+          "decklist": [],
+          "meta_share": 0.008199999999999999,
+          "name": "Elspeth, Storm Slayer",
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-Brawl/Deck/elspeth-storm-slayer-1428530",
+          "sample_count": 375
+        },
+        {
+          "colors": [
             "B"
           ],
           "decklist": [],
@@ -5035,10 +5035,157 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.061500000000000006,
           "name": "Golgari",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/golgari-1434869",
           "sample_count": 312
+        },
+        {
+          "colors": [
+            "U",
+            "B"
+          ],
+          "decklist": [
+            {
+              "name": "Thoughtseize",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Fatal Push",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Three Steps Ahead",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Collector's Vault",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Bitter Triumph",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Collective Brutality",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "The Meathook Massacre",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "The Echoverse Fulcrum",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Theorix Charm",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Liliana of the Veil",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Seasoned Cryomancer",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Zombify",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Liliana, Death's Majesty",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Atraxa, Grand Unifier",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Valgavoth, Terror Eater",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Castle Locthwain",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Clearwater Pathway",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Darkslick Shores",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Gloomlake Verge",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Island",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Otawara, Soaring City",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Shipwreck Marsh",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Swamp",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Takenuma, Abandoned Mire",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Undercity Sewers",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Urborg, Tomb of Yawgmoth",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Watery Grave",
+              "quantity": 4,
+              "role": "mainboard"
+            }
+          ],
+          "meta_share": 0.0462,
+          "name": "Four Color",
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/four-color-1431591",
+          "sample_count": 182
         },
         {
           "colors": [
@@ -5111,7 +5258,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.046900000000000004,
+          "meta_share": 0.0462,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-red-1438308",
           "sample_count": 286
@@ -5203,7 +5350,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.046900000000000004,
+          "meta_share": 0.0462,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/selesnya-1428827",
           "sample_count": 130
@@ -5305,7 +5452,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.046900000000000004,
+          "meta_share": 0.0462,
           "name": "Izzet",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/izzet-1435713",
           "sample_count": 78
@@ -5447,7 +5594,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.046900000000000004,
+          "meta_share": 0.0462,
           "name": "Azorius Yorion",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/azorius-yorion-1429562",
           "sample_count": 364
@@ -5548,7 +5695,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.031200000000000002,
+          "meta_share": 0.0308,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-red-1438100",
           "sample_count": 52
@@ -5646,7 +5793,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.031200000000000002,
+          "meta_share": 0.0308,
           "name": "Jund",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/jund-1435032",
           "sample_count": 130
@@ -5793,7 +5940,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.031200000000000002,
+          "meta_share": 0.0308,
           "name": "Jund",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/jund-1434672",
           "sample_count": 52
@@ -5961,164 +6108,17 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.031200000000000002,
+          "meta_share": 0.0308,
           "name": "Abzan",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/abzan-1434166",
           "sample_count": 52
         },
         {
           "colors": [
-            "U",
-            "B"
-          ],
-          "decklist": [
-            {
-              "name": "Thoughtseize",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Fatal Push",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Three Steps Ahead",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Collector's Vault",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Bitter Triumph",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Collective Brutality",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "The Meathook Massacre",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "The Echoverse Fulcrum",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Theorix Charm",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Liliana of the Veil",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Seasoned Cryomancer",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Zombify",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Liliana, Death's Majesty",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Atraxa, Grand Unifier",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Valgavoth, Terror Eater",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Castle Locthwain",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Clearwater Pathway",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Darkslick Shores",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Gloomlake Verge",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Island",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Otawara, Soaring City",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Shipwreck Marsh",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Swamp",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Takenuma, Abandoned Mire",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Undercity Sewers",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Urborg, Tomb of Yawgmoth",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Watery Grave",
-              "quantity": 4,
-              "role": "mainboard"
-            }
-          ],
-          "meta_share": 0.031200000000000002,
-          "name": "Four Color",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/four-color-1431591",
-          "sample_count": 156
-        },
-        {
-          "colors": [
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-black-1438670",
           "sample_count": 104
@@ -6129,7 +6129,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/selesnya-1438476",
           "sample_count": 110
@@ -6139,7 +6139,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-black-1438348",
           "sample_count": 26
@@ -6150,7 +6150,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Simic",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/simic-1437924",
           "sample_count": 106
@@ -6161,7 +6161,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/azorius-1437795",
           "sample_count": 52
@@ -6172,7 +6172,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Izzet",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/izzet-1437780",
           "sample_count": 26
@@ -6182,7 +6182,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Rakdos",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/rakdos-1437519",
           "sample_count": 26
@@ -6196,7 +6196,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-green-1436823",
           "sample_count": 52
@@ -6209,7 +6209,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Four Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/four-color-1437201",
           "sample_count": 43
@@ -6221,7 +6221,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Bant",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/bant-1437177",
           "sample_count": 78
@@ -6232,7 +6232,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/azorius-1437160",
           "sample_count": 41
@@ -6243,7 +6243,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/azorius-1437017",
           "sample_count": 78
@@ -6254,7 +6254,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Golgari",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/golgari-1436971",
           "sample_count": 182
@@ -6265,7 +6265,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/selesnya-1436815",
           "sample_count": 52
@@ -6277,7 +6277,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Sultai",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/sultai-1435859",
           "sample_count": 26
@@ -6288,7 +6288,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Orzhov",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/orzhov-1435506",
           "sample_count": 26
@@ -6302,7 +6302,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Five Color Yorion",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/five-color-yorion-1435301",
           "sample_count": 216
@@ -6312,7 +6312,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-red-1435031",
           "sample_count": 78
@@ -6322,7 +6322,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-black-1434998",
           "sample_count": 78
@@ -6333,7 +6333,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-green-1434715",
           "sample_count": 26
@@ -6343,7 +6343,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Blue",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-blue-1434511",
           "sample_count": 26
@@ -6353,7 +6353,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-black-1434510",
           "sample_count": 26
@@ -6364,7 +6364,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Golgari",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/golgari-1434342",
           "sample_count": 104
@@ -6378,7 +6378,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Four Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/four-color-1434164",
           "sample_count": 78
@@ -6389,7 +6389,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Azorius Kaheera",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/azorius-kaheera-1433950",
           "sample_count": 208
@@ -6401,7 +6401,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Four Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/four-color-1433887",
           "sample_count": 78
@@ -6412,7 +6412,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Izzet",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/izzet-1433766",
           "sample_count": 52
@@ -6422,7 +6422,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-black-1433765",
           "sample_count": 26
@@ -6432,7 +6432,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-red-1432763",
           "sample_count": 121
@@ -6444,7 +6444,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Four Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/four-color-1431578",
           "sample_count": 26
@@ -6455,7 +6455,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/selesnya-1431560",
           "sample_count": 130
@@ -6466,7 +6466,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/selesnya-1431309",
           "sample_count": 26
@@ -6478,7 +6478,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Sultai",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/sultai-1431179",
           "sample_count": 26
@@ -6489,7 +6489,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-green-1431070",
           "sample_count": 78
@@ -6499,7 +6499,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Blue",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-blue-1430779",
           "sample_count": 26
@@ -6510,7 +6510,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Izzet",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/izzet-1430090",
           "sample_count": 26
@@ -6520,7 +6520,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-red-1430070",
           "sample_count": 26
@@ -6530,7 +6530,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.015600000000000001,
+          "meta_share": 0.0154,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Explorer-BO1/Deck/mono-green-1429541",
           "sample_count": 26
@@ -8293,7 +8293,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0909,
+          "meta_share": 0.0897,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-red-1438130",
           "sample_count": 775
@@ -8374,7 +8374,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0519,
+          "meta_share": 0.0513,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-white-1429618",
           "sample_count": 496
@@ -8494,7 +8494,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.039,
+          "meta_share": 0.0385,
           "name": "Five Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/five-color-1433963",
           "sample_count": 468
@@ -8585,7 +8585,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.026000000000000002,
+          "meta_share": 0.0256,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-black-1430201",
           "sample_count": 156
@@ -8681,7 +8681,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.026000000000000002,
+          "meta_share": 0.0256,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-green-1435982",
           "sample_count": 69
@@ -8812,7 +8812,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.026000000000000002,
+          "meta_share": 0.0256,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-white-1437148",
           "sample_count": 93
@@ -8903,10 +8903,243 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.026000000000000002,
+          "meta_share": 0.0256,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-black-1436494",
           "sample_count": 125
+        },
+        {
+          "colors": [
+            "W",
+            "B"
+          ],
+          "decklist": [
+            {
+              "name": "Case of the Uneaten Feast",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Authority of the Consuls",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Soul Warden",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Sheltered by Ghosts",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Voice of the Blessed",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Essence Channeler",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Deep-Cavern Bat",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Amalia Benavides Aguirre",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Elas il-Kor, Sadistic Pilgrim",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Voice of Victory",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Abandoned Air Temple",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Bleachbone Verge",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Caves of Koilos",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Concealed Courtyard",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Eiganjo, Seat of the Empire",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Obscura Storefront",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Plains",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Reflecting Pool",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Shattered Sanctum",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Swamp",
+              "quantity": 1,
+              "role": "mainboard"
+            }
+          ],
+          "meta_share": 0.0128,
+          "name": "Orzhov",
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/orzhov-1438714",
+          "sample_count": 124
+        },
+        {
+          "colors": [
+            "U"
+          ],
+          "decklist": [
+            {
+              "name": "Fountainport Bell",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Three Steps Ahead",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Proft's Eidetic Memory",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Treasure Map",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Counterspell",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Tempest Djinn",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Fear of Impostors",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Narset, Parter of Veils",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Winternight Stories",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Mu Yanling, Sky Dancer",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "See Double",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Naga Fleshcrafter",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Enduring Curiosity",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "The Theorist, Jace Beleren",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "This Town Ain't Big Enough",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Overlord of the Floodpits",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Voracious Greatshark",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Archmage of Runes",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Time Stop",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Marang River Regent",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "River's Rebuke",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Island",
+              "quantity": 23,
+              "role": "mainboard"
+            }
+          ],
+          "meta_share": 0.0128,
+          "name": "Mono Blue",
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-blue-1438679",
+          "sample_count": 189
         },
         {
           "colors": [
@@ -9011,7 +9244,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/azorius-1433959",
           "sample_count": 93
@@ -9021,114 +9254,8 @@
             "R",
             "G"
           ],
-          "decklist": [
-            {
-              "name": "Flashback",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Grapeshot",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Pyretic Ritual",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Manamorphose",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Ruby Medallion",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Reckless Impulse",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Wrenn's Resolve",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Ral, Monsoon Mage",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Artist's Talent",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Wish",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Valakut Awakening",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Jeska's Will",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Glimpse the Impossible",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Hex Magic",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Past in Flames",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Gemstone Caverns",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Inspiring Vantage",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Mountain",
-              "quantity": 6,
-              "role": "mainboard"
-            },
-            {
-              "name": "Prismatic Vista",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Sacred Foundry",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Sunbaked Canyon",
-              "quantity": 3,
-              "role": "mainboard"
-            }
-          ],
-          "meta_share": 0.013000000000000001,
+          "decklist": [],
+          "meta_share": 0.0128,
           "name": "Mono Red Lurrus",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-red-lurrus-1428905",
           "sample_count": 310
@@ -9138,89 +9265,8 @@
             "U",
             "G"
           ],
-          "decklist": [
-            {
-              "name": "Benthic Biomancer",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Snakeskin Veil",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Merfolk Trickster",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Silvergill Adept",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Brineborn Cutthroat",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Merfolk Mistbinder",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "River Sneak",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Deeproot Elite",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Merrow Reejerey",
-              "quantity": 4,
-              "role": "mainboard"
-            },
-            {
-              "name": "Sleep",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Repudiate",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Breeding Pool",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Snow-Covered Forest",
-              "quantity": 5,
-              "role": "mainboard"
-            },
-            {
-              "name": "Snow-Covered Island",
-              "quantity": 12,
-              "role": "mainboard"
-            },
-            {
-              "name": "Thornwood Falls",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Unclaimed Territory",
-              "quantity": 3,
-              "role": "mainboard"
-            }
-          ],
-          "meta_share": 0.013000000000000001,
+          "decklist": [],
+          "meta_share": 0.0128,
           "name": "Simic",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/simic-1438125",
           "sample_count": 31
@@ -9230,7 +9276,7 @@
             "W"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-white-1437781",
           "sample_count": 31
@@ -9241,7 +9287,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Rakdos",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/rakdos-1437772",
           "sample_count": 156
@@ -9253,7 +9299,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Five Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/five-color-1437752",
           "sample_count": 31
@@ -9263,7 +9309,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Deck",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/deck-1437648",
           "sample_count": 31
@@ -9273,7 +9319,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Jund",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/jund-1437631",
           "sample_count": 62
@@ -9284,7 +9330,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/selesnya-1437503",
           "sample_count": 31
@@ -9294,7 +9340,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-black-1437194",
           "sample_count": 31
@@ -9305,7 +9351,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Orzhov",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/orzhov-1437166",
           "sample_count": 31
@@ -9315,7 +9361,7 @@
             "W"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-white-1437128",
           "sample_count": 341
@@ -9325,7 +9371,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Deck",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/deck-1436995",
           "sample_count": 32
@@ -9335,7 +9381,7 @@
             "W"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-white-1436473",
           "sample_count": 124
@@ -9345,7 +9391,7 @@
             "W"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-white-1436845",
           "sample_count": 62
@@ -9359,7 +9405,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Five Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/five-color-1436462",
           "sample_count": 93
@@ -9369,7 +9415,7 @@
             "W"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/selesnya-1435682",
           "sample_count": 155
@@ -9380,7 +9426,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-green-1433754",
           "sample_count": 239
@@ -9392,7 +9438,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Grixis",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/grixis-1436270",
           "sample_count": 98
@@ -9402,7 +9448,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-red-1435521",
           "sample_count": 62
@@ -9414,7 +9460,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Temur",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/temur-1435483",
           "sample_count": 63
@@ -9425,7 +9471,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/selesnya-1434677",
           "sample_count": 31
@@ -9435,7 +9481,7 @@
             "W"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-white-1434494",
           "sample_count": 31
@@ -9446,7 +9492,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Golgari",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/golgari-1434366",
           "sample_count": 31
@@ -9457,7 +9503,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/dimir-1433769",
           "sample_count": 124
@@ -9468,7 +9514,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Golgari",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/golgari-1433416",
           "sample_count": 62
@@ -9478,7 +9524,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Rakdos",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/rakdos-1433229",
           "sample_count": 279
@@ -9488,7 +9534,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono Blue",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-blue-1433009",
           "sample_count": 62
@@ -9500,7 +9546,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Jeskai",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/jeskai-1432757",
           "sample_count": 62
@@ -9511,7 +9557,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/azorius-1432734",
           "sample_count": 65
@@ -9522,7 +9568,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Gruul",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/gruul-1432731",
           "sample_count": 31
@@ -9533,7 +9579,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/dimir-1432317",
           "sample_count": 31
@@ -9543,7 +9589,7 @@
             "W"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-white-1432097",
           "sample_count": 31
@@ -9553,7 +9599,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono Red Obosh",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-red-obosh-1432089",
           "sample_count": 217
@@ -9563,7 +9609,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-black-1431877",
           "sample_count": 547
@@ -9574,7 +9620,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/selesnya-1431734",
           "sample_count": 32
@@ -9585,7 +9631,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Golgari",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/golgari-1431614",
           "sample_count": 31
@@ -9596,7 +9642,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-red-1431262",
           "sample_count": 124
@@ -9610,7 +9656,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Five Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/five-color-1430951",
           "sample_count": 191
@@ -9620,7 +9666,7 @@
             "W"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-white-1430909",
           "sample_count": 31
@@ -9631,32 +9677,9 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.013000000000000001,
+          "meta_share": 0.0128,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/dimir-1430655",
-          "sample_count": 62
-        },
-        {
-          "colors": [
-            "W",
-            "U",
-            "B",
-            "G"
-          ],
-          "decklist": [],
-          "meta_share": 0.013000000000000001,
-          "name": "Four Color",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/four-color-1430583",
-          "sample_count": 31
-        },
-        {
-          "colors": [
-            "R"
-          ],
-          "decklist": [],
-          "meta_share": 0.013000000000000001,
-          "name": "Mono Red",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Historic-BO1/Deck/mono-red-1430463",
           "sample_count": 62
         }
       ],
@@ -11347,10 +11370,10 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.061,
+          "meta_share": 0.0632,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-white-1436835",
-          "sample_count": 1307
+          "sample_count": 1400
         },
         {
           "colors": [
@@ -11474,10 +11497,10 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0345,
+          "meta_share": 0.0368,
           "name": "Orzhov",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/orzhov-1436515",
-          "sample_count": 1397
+          "sample_count": 1149
         },
         {
           "colors": [
@@ -11488,23 +11511,28 @@
           ],
           "decklist": [
             {
+              "name": "Cache Grab",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
               "name": "Town Greeter",
               "quantity": 4,
               "role": "mainboard"
             },
             {
-              "name": "Bitter Triumph",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Formidable Speaker",
+              "name": "Something Worth Saving",
               "quantity": 4,
               "role": "mainboard"
             },
             {
               "name": "Awaken the Honored Dead",
-              "quantity": 2,
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Formidable Speaker",
+              "quantity": 4,
               "role": "mainboard"
             },
             {
@@ -11518,32 +11546,17 @@
               "role": "mainboard"
             },
             {
-              "name": "Enduring Courage",
-              "quantity": 1,
+              "name": "Terror of the Peaks",
+              "quantity": 3,
               "role": "mainboard"
             },
             {
               "name": "Overlord of the Balemurk",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Terror of the Peaks",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Wistfulness",
-              "quantity": 3,
+              "quantity": 4,
               "role": "mainboard"
             },
             {
               "name": "Deceit",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Craterclaw Colossus",
               "quantity": 1,
               "role": "mainboard"
             },
@@ -11554,7 +11567,17 @@
             },
             {
               "name": "Ardyn, the Usurper",
-              "quantity": 2,
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Blooming Marsh",
+              "quantity": 4,
+              "role": "mainboard"
+            },
+            {
+              "name": "Botanical Sanctum",
+              "quantity": 3,
               "role": "mainboard"
             },
             {
@@ -11564,27 +11587,17 @@
             },
             {
               "name": "Cavern of Souls",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Gloomlake Verge",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Hedge Maze",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Overgrown Tomb",
               "quantity": 4,
               "role": "mainboard"
             },
             {
-              "name": "Restless Reef",
+              "name": "Multiversal Passage",
               "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Swamp",
+              "quantity": 2,
               "role": "mainboard"
             },
             {
@@ -11593,25 +11606,20 @@
               "role": "mainboard"
             },
             {
-              "name": "Wastewood Verge",
-              "quantity": 2,
+              "name": "Underground Mortuary",
+              "quantity": 1,
               "role": "mainboard"
             },
             {
               "name": "Watery Grave",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Willowrush Verge",
-              "quantity": 2,
+              "quantity": 4,
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0318,
+          "meta_share": 0.028900000000000002,
           "name": "Four Color",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/four-color-1433824",
-          "sample_count": 1427
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/four-color-1438477",
+          "sample_count": 1303
         },
         {
           "colors": [
@@ -11704,7 +11712,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0265,
+          "meta_share": 0.0263,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-green-1434487",
           "sample_count": 1186
@@ -11805,7 +11813,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0212,
+          "meta_share": 0.021099999999999997,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-white-1438344",
           "sample_count": 1344
@@ -11876,7 +11884,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.018600000000000002,
+          "meta_share": 0.0184,
           "name": "Mono Blue",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-blue-1438480",
           "sample_count": 403
@@ -11998,7 +12006,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.018600000000000002,
+          "meta_share": 0.0184,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/azorius-1436439",
           "sample_count": 1176
@@ -12115,7 +12123,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.018600000000000002,
+          "meta_share": 0.0184,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/jeskai-1436986",
           "sample_count": 937
@@ -12196,7 +12204,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0159,
+          "meta_share": 0.0158,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-black-1437753",
           "sample_count": 374
@@ -12277,7 +12285,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0159,
+          "meta_share": 0.0158,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-green-1437801",
           "sample_count": 460
@@ -12288,7 +12296,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0159,
+          "meta_share": 0.0158,
           "name": "Izzet",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/izzet-1434832",
           "sample_count": 322
@@ -12300,7 +12308,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0159,
+          "meta_share": 0.0158,
           "name": "Abzan",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/abzan-1434102",
           "sample_count": 310
@@ -12310,7 +12318,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.013300000000000001,
+          "meta_share": 0.0132,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-black-1438356",
           "sample_count": 190
@@ -12322,7 +12330,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.013300000000000001,
+          "meta_share": 0.0132,
           "name": "Jund",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/jund-1436844",
           "sample_count": 217
@@ -12332,7 +12340,7 @@
             "W"
           ],
           "decklist": [],
-          "meta_share": 0.013300000000000001,
+          "meta_share": 0.0132,
           "name": "Mono White",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-white-1435675",
           "sample_count": 372
@@ -12343,7 +12351,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.013300000000000001,
+          "meta_share": 0.0132,
           "name": "Rakdos",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/rakdos-1435130",
           "sample_count": 465
@@ -12354,7 +12362,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.013300000000000001,
+          "meta_share": 0.0132,
           "name": "Boros",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/boros-1435860",
           "sample_count": 651
@@ -12364,7 +12372,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0106,
+          "meta_share": 0.0105,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-red-1437794",
           "sample_count": 279
@@ -12375,7 +12383,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0106,
+          "meta_share": 0.0105,
           "name": "Boros",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/boros-1433945",
           "sample_count": 254
@@ -12386,7 +12394,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0106,
+          "meta_share": 0.0105,
           "name": "Orzhov",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/orzhov-1435536",
           "sample_count": 221
@@ -12397,7 +12405,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0106,
+          "meta_share": 0.0105,
           "name": "Orzhov",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/orzhov-1436138",
           "sample_count": 713
@@ -12408,10 +12416,21 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0106,
+          "meta_share": 0.0105,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/dimir-1437196",
           "sample_count": 125
+        },
+        {
+          "colors": [
+            "B",
+            "G"
+          ],
+          "decklist": [],
+          "meta_share": 0.0079,
+          "name": "Golgari",
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/golgari-1438711",
+          "sample_count": 163
         },
         {
           "colors": [
@@ -12419,7 +12438,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.008,
+          "meta_share": 0.0079,
           "name": "Boros",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/boros-1438323",
           "sample_count": 186
@@ -12429,7 +12448,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.008,
+          "meta_share": 0.0079,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/mono-green-1434823",
           "sample_count": 155
@@ -12440,7 +12459,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.008,
+          "meta_share": 0.0079,
           "name": "Esper",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/esper-1433919",
           "sample_count": 778
@@ -12451,7 +12470,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.008,
+          "meta_share": 0.0079,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/dimir-1436992",
           "sample_count": 217
@@ -12463,7 +12482,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.008,
+          "meta_share": 0.0079,
           "name": "Abzan",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/abzan-1436953",
           "sample_count": 156
@@ -12475,7 +12494,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.008,
+          "meta_share": 0.0079,
           "name": "Four Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/four-color-1436147",
           "sample_count": 379
@@ -12486,7 +12505,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.008,
+          "meta_share": 0.0079,
           "name": "Boros",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/boros-1434093",
           "sample_count": 93
@@ -12497,7 +12516,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.008,
+          "meta_share": 0.0079,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/selesnya-1434731",
           "sample_count": 186
@@ -12578,17 +12597,6 @@
           "decklist": [],
           "meta_share": 0.0053,
           "name": "Orzhov",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/orzhov-1438106",
-          "sample_count": 217
-        },
-        {
-          "colors": [
-            "W",
-            "B"
-          ],
-          "decklist": [],
-          "meta_share": 0.0053,
-          "name": "Orzhov",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/orzhov-1437302",
           "sample_count": 124
         },
@@ -12649,17 +12657,6 @@
         },
         {
           "colors": [
-            "B",
-            "G"
-          ],
-          "decklist": [],
-          "meta_share": 0.0053,
-          "name": "Golgari",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/golgari-1437791",
-          "sample_count": 132
-        },
-        {
-          "colors": [
             "W",
             "G"
           ],
@@ -12715,6 +12712,17 @@
         },
         {
           "colors": [
+            "W",
+            "B"
+          ],
+          "decklist": [],
+          "meta_share": 0.0053,
+          "name": "Orzhov",
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Standard-BO1/Deck/orzhov-1437623",
+          "sample_count": 527
+        },
+        {
+          "colors": [
             "W"
           ],
           "decklist": [],
@@ -12738,13 +12746,23 @@
           ],
           "decklist": [
             {
+              "name": "Erode",
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
               "name": "Case of the Uneaten Feast",
               "quantity": 4,
               "role": "mainboard"
             },
             {
-              "name": "Erode",
-              "quantity": 3,
+              "name": "Liliana the Faultless",
+              "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Aunt May",
+              "quantity": 2,
               "role": "mainboard"
             },
             {
@@ -12753,13 +12771,8 @@
               "role": "mainboard"
             },
             {
-              "name": "Aunt May",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Deep-Cavern Bat",
-              "quantity": 3,
+              "name": "Amalia Benavides Aguirre",
+              "quantity": 4,
               "role": "mainboard"
             },
             {
@@ -12768,33 +12781,13 @@
               "role": "mainboard"
             },
             {
-              "name": "Essence Channeler",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
               "name": "Starscape Cleric",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Strategic Betrayal",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Voice of Victory",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Amalia Benavides Aguirre",
               "quantity": 4,
               "role": "mainboard"
             },
             {
-              "name": "Haliya, Guided by Light",
-              "quantity": 3,
+              "name": "Enlightened Confidant",
+              "quantity": 4,
               "role": "mainboard"
             },
             {
@@ -12803,23 +12796,13 @@
               "role": "mainboard"
             },
             {
-              "name": "Zoraline, Cosmos Caller",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Raise the Past",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
-              "name": "Bleachbone Verge",
-              "quantity": 2,
+              "name": "Haliya, Guided by Light",
+              "quantity": 4,
               "role": "mainboard"
             },
             {
               "name": "Concealed Courtyard",
-              "quantity": 3,
+              "quantity": 4,
               "role": "mainboard"
             },
             {
@@ -12828,39 +12811,24 @@
               "role": "mainboard"
             },
             {
-              "name": "Multiversal Passage",
+              "name": "Great Arashin City",
               "quantity": 2,
+              "role": "mainboard"
+            },
+            {
+              "name": "Multiversal Passage",
+              "quantity": 4,
               "role": "mainboard"
             },
             {
               "name": "Plains",
-              "quantity": 3,
-              "role": "mainboard"
-            },
-            {
-              "name": "Shattered Sanctum",
-              "quantity": 3,
+              "quantity": 4,
               "role": "mainboard"
             },
             {
               "name": "Starting Town",
-              "quantity": 3,
+              "quantity": 4,
               "role": "mainboard"
-            },
-            {
-              "name": "Swamp",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Duress",
-              "quantity": 1,
-              "role": "sideboard"
-            },
-            {
-              "name": "Requiting Hex",
-              "quantity": 2,
-              "role": "sideboard"
             },
             {
               "name": "Seam Rip",
@@ -12868,35 +12836,35 @@
               "role": "sideboard"
             },
             {
-              "name": "Starscape Cleric",
+              "name": "Ghost Vacuum",
               "quantity": 2,
               "role": "sideboard"
             },
             {
-              "name": "Strategic Betrayal",
-              "quantity": 1,
-              "role": "sideboard"
-            },
-            {
-              "name": "Ancient Vendetta",
-              "quantity": 2,
-              "role": "sideboard"
-            },
-            {
-              "name": "Leyline of the Void",
+              "name": "Duress",
               "quantity": 4,
               "role": "sideboard"
             },
             {
-              "name": "Decorum Dissertation",
+              "name": "Sheltered by Ghosts",
+              "quantity": 4,
+              "role": "sideboard"
+            },
+            {
+              "name": "Pyrrhic Strike",
+              "quantity": 2,
+              "role": "sideboard"
+            },
+            {
+              "name": "Raven Eagle",
               "quantity": 1,
               "role": "sideboard"
             }
           ],
-          "meta_share": 0.12380000000000001,
+          "meta_share": 0.13,
           "name": "Orzhov",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/orzhov-1436993",
-          "sample_count": 992
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/orzhov-1435484",
+          "sample_count": 1047
         },
         {
           "colors": [
@@ -13060,10 +13028,10 @@
               "role": "sideboard"
             }
           ],
-          "meta_share": 0.1048,
+          "meta_share": 0.09,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/dimir-1434711",
-          "sample_count": 971
+          "sample_count": 838
         },
         {
           "colors": [
@@ -13284,7 +13252,7 @@
               "role": "sideboard"
             }
           ],
-          "meta_share": 0.0762,
+          "meta_share": 0.08,
           "name": "Four Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/four-color-1436430",
           "sample_count": 383
@@ -13425,7 +13393,7 @@
               "role": "sideboard"
             }
           ],
-          "meta_share": 0.0667,
+          "meta_share": 0.07,
           "name": "Mono Green",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/mono-green-1437638",
           "sample_count": 453
@@ -13603,7 +13571,7 @@
               "role": "sideboard"
             }
           ],
-          "meta_share": 0.0571,
+          "meta_share": 0.06,
           "name": "Jund",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/jund-1435540",
           "sample_count": 537
@@ -13780,10 +13748,10 @@
               "role": "sideboard"
             }
           ],
-          "meta_share": 0.0571,
+          "meta_share": 0.05,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/azorius-1437602",
-          "sample_count": 566
+          "sample_count": 511
         },
         {
           "colors": [
@@ -13793,12 +13761,12 @@
           "decklist": [
             {
               "name": "Requiting Hex",
-              "quantity": 4,
+              "quantity": 3,
               "role": "mainboard"
             },
             {
               "name": "Duress",
-              "quantity": 3,
+              "quantity": 2,
               "role": "mainboard"
             },
             {
@@ -13807,23 +13775,18 @@
               "role": "mainboard"
             },
             {
-              "name": "The Soul Stone",
-              "quantity": 1,
-              "role": "mainboard"
-            },
-            {
               "name": "Strategic Betrayal",
               "quantity": 1,
               "role": "mainboard"
             },
             {
-              "name": "Day of Black Sun",
-              "quantity": 2,
+              "name": "Theorix Charm",
+              "quantity": 3,
               "role": "mainboard"
             },
             {
               "name": "Seasoned Cryomancer",
-              "quantity": 4,
+              "quantity": 3,
               "role": "mainboard"
             },
             {
@@ -13837,13 +13800,8 @@
               "role": "mainboard"
             },
             {
-              "name": "Overlord of the Balemurk",
-              "quantity": 2,
-              "role": "mainboard"
-            },
-            {
-              "name": "Emeritus of Ideation",
-              "quantity": 2,
+              "name": "The Theorist, Jace Beleren",
+              "quantity": 3,
               "role": "mainboard"
             },
             {
@@ -13852,13 +13810,18 @@
               "role": "mainboard"
             },
             {
-              "name": "Deceit",
-              "quantity": 4,
+              "name": "Overlord of the Balemurk",
+              "quantity": 3,
               "role": "mainboard"
             },
             {
               "name": "Uldaros Theorix",
-              "quantity": 1,
+              "quantity": 3,
+              "role": "mainboard"
+            },
+            {
+              "name": "Deceit",
+              "quantity": 4,
               "role": "mainboard"
             },
             {
@@ -13872,13 +13835,18 @@
               "role": "mainboard"
             },
             {
+              "name": "Island",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
               "name": "Multiversal Passage",
               "quantity": 2,
               "role": "mainboard"
             },
             {
               "name": "Restless Reef",
-              "quantity": 4,
+              "quantity": 3,
               "role": "mainboard"
             },
             {
@@ -13888,7 +13856,7 @@
             },
             {
               "name": "Swamp",
-              "quantity": 4,
+              "quantity": 3,
               "role": "mainboard"
             },
             {
@@ -13903,7 +13871,12 @@
             },
             {
               "name": "Duress",
-              "quantity": 1,
+              "quantity": 2,
+              "role": "sideboard"
+            },
+            {
+              "name": "Day of Black Sun",
+              "quantity": 2,
               "role": "sideboard"
             },
             {
@@ -13912,35 +13885,45 @@
               "role": "sideboard"
             },
             {
-              "name": "Negate",
-              "quantity": 2,
+              "name": "Disdainful Stroke",
+              "quantity": 1,
+              "role": "sideboard"
+            },
+            {
+              "name": "Strategic Betrayal",
+              "quantity": 1,
               "role": "sideboard"
             },
             {
               "name": "Qarsi Revenant",
-              "quantity": 3,
-              "role": "sideboard"
-            },
-            {
-              "name": "Oildeep Gearhulk",
               "quantity": 2,
-              "role": "sideboard"
-            },
-            {
-              "name": "Leyline of the Void",
-              "quantity": 4,
               "role": "sideboard"
             },
             {
               "name": "Deadly Cover-Up",
               "quantity": 1,
               "role": "sideboard"
+            },
+            {
+              "name": "M.O.D.O.K.",
+              "quantity": 1,
+              "role": "sideboard"
+            },
+            {
+              "name": "Emeritus of Ideation",
+              "quantity": 1,
+              "role": "sideboard"
+            },
+            {
+              "name": "Doomsday Excruciator",
+              "quantity": 2,
+              "role": "sideboard"
             }
           ],
-          "meta_share": 0.0381,
+          "meta_share": 0.03,
           "name": "Dimir",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/dimir-1433957",
-          "sample_count": 291
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/dimir-1434990",
+          "sample_count": 239
         },
         {
           "colors": [
@@ -14064,10 +14047,10 @@
               "role": "sideboard"
             }
           ],
-          "meta_share": 0.0381,
+          "meta_share": 0.03,
           "name": "Boros",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/boros-1435108",
-          "sample_count": 244
+          "sample_count": 217
         },
         {
           "colors": [
@@ -14216,7 +14199,7 @@
               "role": "sideboard"
             }
           ],
-          "meta_share": 0.0286,
+          "meta_share": 0.03,
           "name": "Izzet",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/izzet-1434825",
           "sample_count": 293
@@ -14353,7 +14336,7 @@
               "role": "sideboard"
             }
           ],
-          "meta_share": 0.019,
+          "meta_share": 0.02,
           "name": "Boros",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/boros-1436165",
           "sample_count": 215
@@ -14364,7 +14347,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.019,
+          "meta_share": 0.02,
           "name": "Golgari",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/golgari-1436472",
           "sample_count": 298
@@ -14375,7 +14358,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.019,
+          "meta_share": 0.02,
           "name": "Rakdos",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/rakdos-1434390",
           "sample_count": 106
@@ -14386,10 +14369,32 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.019,
+          "meta_share": 0.02,
           "name": "Jeskai",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/jeskai-1435550",
           "sample_count": 81
+        },
+        {
+          "colors": [
+            "U",
+            "R"
+          ],
+          "decklist": [],
+          "meta_share": 0.01,
+          "name": "Izzet",
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/izzet-1438708",
+          "sample_count": 27
+        },
+        {
+          "colors": [
+            "W",
+            "R"
+          ],
+          "decklist": [],
+          "meta_share": 0.01,
+          "name": "Boros",
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/boros-1438683",
+          "sample_count": 28
         },
         {
           "colors": [
@@ -14397,7 +14402,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/azorius-1436438",
           "sample_count": 107
@@ -14408,7 +14413,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/azorius-1438458",
           "sample_count": 26
@@ -14418,7 +14423,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/mono-black-1438454",
           "sample_count": 29
@@ -14429,7 +14434,7 @@
             "U"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Azorius",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/azorius-1438447",
           "sample_count": 28
@@ -14441,7 +14446,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Sultai",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/sultai-1438444",
           "sample_count": 85
@@ -14452,7 +14457,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Esper",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/esper-1438229",
           "sample_count": 107
@@ -14464,7 +14469,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Grixis",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/grixis-1437906",
           "sample_count": 80
@@ -14476,7 +14481,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Abzan",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/abzan-1437786",
           "sample_count": 80
@@ -14487,7 +14492,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Gruul",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/gruul-1437767",
           "sample_count": 26
@@ -14497,7 +14502,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/mono-black-1437590",
           "sample_count": 26
@@ -14508,7 +14513,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/dimir-1437521",
           "sample_count": 28
@@ -14518,7 +14523,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/mono-black-1437468",
           "sample_count": 26
@@ -14529,7 +14534,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/dimir-1437122",
           "sample_count": 26
@@ -14540,7 +14545,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Golgari",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/golgari-1436469",
           "sample_count": 27
@@ -14552,7 +14557,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Jund",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/jund-1436265",
           "sample_count": 28
@@ -14564,7 +14569,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Jund",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/jund-1435910",
           "sample_count": 190
@@ -14575,7 +14580,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/mono-red-1435874",
           "sample_count": 26
@@ -14586,7 +14591,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Simic",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/simic-1435667",
           "sample_count": 57
@@ -14597,18 +14602,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
-          "name": "Orzhov",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/orzhov-1435484",
-          "sample_count": 28
-        },
-        {
-          "colors": [
-            "W",
-            "B"
-          ],
-          "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Orzhov",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/orzhov-1435308",
           "sample_count": 81
@@ -14619,7 +14613,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Gruul",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/gruul-1435268",
           "sample_count": 27
@@ -14631,7 +14625,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Sultai",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/sultai-1435122",
           "sample_count": 65
@@ -14642,7 +14636,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Golgari",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/golgari-1434737",
           "sample_count": 215
@@ -14654,7 +14648,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Four Color",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/four-color-1435012",
           "sample_count": 28
@@ -14664,7 +14658,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/mono-black-1434871",
           "sample_count": 27
@@ -14674,7 +14668,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Orzhov",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/orzhov-1434816",
           "sample_count": 108
@@ -14686,7 +14680,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Abzan",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/abzan-1434719",
           "sample_count": 121
@@ -14697,7 +14691,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Simic",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/simic-1434373",
           "sample_count": 27
@@ -14709,7 +14703,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Jeskai",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/jeskai-1434372",
           "sample_count": 79
@@ -14720,7 +14714,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/dimir-1434369",
           "sample_count": 27
@@ -14731,7 +14725,7 @@
             "G"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Selesnya",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/selesnya-1434355",
           "sample_count": 26
@@ -14742,7 +14736,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Boros",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/boros-1434350",
           "sample_count": 34
@@ -14752,7 +14746,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/mono-red-1434160",
           "sample_count": 26
@@ -14764,21 +14758,9 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0095,
+          "meta_share": 0.01,
           "name": "Jeskai",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/jeskai-1434151",
-          "sample_count": 27
-        },
-        {
-          "colors": [
-            "B",
-            "R",
-            "G"
-          ],
-          "decklist": [],
-          "meta_share": 0.0095,
-          "name": "Jund",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Traditional-Standard/Deck/jund-1433925",
           "sample_count": 27
         }
       ],
@@ -14990,7 +14972,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.22219999999999998,
+          "meta_share": 0.21739999999999998,
           "name": "Ajani Resolute",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Brawl/Deck/ajani-resolute-1438684",
           "sample_count": 212
@@ -15016,7 +14998,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.15560000000000002,
+          "meta_share": 0.1522,
           "name": "Elspeth, Storm Slayer",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Brawl/Deck/elspeth-storm-slayer-1438350",
           "sample_count": 125
@@ -15087,10 +15069,10 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0889,
+          "meta_share": 0.10869999999999999,
           "name": "Liliana the Faultless",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Brawl/Deck/liliana-the-faultless-1434363",
-          "sample_count": 180
+          "sample_count": 192
         },
         {
           "colors": [
@@ -15293,10 +15275,277 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0889,
+          "meta_share": 0.0652,
           "name": "Kona, Rescue Beastie",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Brawl/Deck/kona-rescue-beastie-1423251",
-          "sample_count": 286
+          "sample_count": 275
+        },
+        {
+          "colors": [
+            "W",
+            "B"
+          ],
+          "decklist": [
+            {
+              "name": "Ketramose, the New Dawn",
+              "quantity": 1,
+              "role": "commander"
+            },
+            {
+              "name": "Ugin, Eye of the Storms",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Intimidation Tactics",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Ghost Vacuum",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Seam Rip",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Duress",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Get Lost",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Sheltered by Ghosts",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Agatha's Soul Cauldron",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Shoot the Sheriff",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Exorcise",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Feed the Cycle",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Strategic Betrayal",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Parting Gust",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Feed the Swarm",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Deep-Cavern Bat",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Skullcap Snail",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Charming Prince",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Unscrupulous Agent",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "The Ooze",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Banishing Light",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Split Up",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Withering Torment",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Trapped in the Screen",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Aang's Iceberg",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "The Princess Takes Flight",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Gravkill",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Day of Judgment",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Kaya, Spirits' Justice",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "The Aetherspark",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "White Auracite",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Ultima",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Ride's End",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Deadly Cover-Up",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Expel the Interlopers",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Liliana, Dreadhorde General",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Virtue of Persistence",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Bleachbone Verge",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Cavern of Souls",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Concealed Courtyard",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Fabled Passage",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Fountainport",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Godless Shrine",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Night Market",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Pit of Offerings",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Plains",
+              "quantity": 6,
+              "role": "mainboard"
+            },
+            {
+              "name": "Restless Fortress",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Shadowy Backstreet",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Sunken Citadel",
+              "quantity": 1,
+              "role": "mainboard"
+            },
+            {
+              "name": "Swamp",
+              "quantity": 5,
+              "role": "mainboard"
+            },
+            {
+              "name": "Temple of Silence",
+              "quantity": 1,
+              "role": "mainboard"
+            }
+          ],
+          "meta_share": 0.0435,
+          "name": "Ketramose, the New Dawn",
+          "representative_decklist_url": "https://aetherhub.com/Metagame/Brawl/Deck/ketramose-the-new-dawn-1425417",
+          "sample_count": 89
         },
         {
           "colors": [
@@ -15524,7 +15773,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0444,
+          "meta_share": 0.0435,
           "name": "Tifa Lockhart",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Brawl/Deck/tifa-lockhart-1418722",
           "sample_count": 132
@@ -15654,7 +15903,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/dimir-1438459",
           "sample_count": 26
@@ -15790,7 +16039,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-black-1438122",
           "sample_count": 78
@@ -15926,7 +16175,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-red-1437592",
           "sample_count": 26
@@ -16043,7 +16292,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Izzet",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/izzet-1437260",
           "sample_count": 26
@@ -16180,7 +16429,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Deck",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/deck-1435716",
           "sample_count": 26
@@ -16342,7 +16591,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Dimir",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/dimir-1435283",
           "sample_count": 26
@@ -16423,7 +16672,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Rakdos",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/rakdos-1434992",
           "sample_count": 26
@@ -16529,7 +16778,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-black-1433966",
           "sample_count": 26
@@ -16937,7 +17186,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Esper Yorion",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/esper-yorion-1433053",
           "sample_count": 78
@@ -17075,7 +17324,7 @@
               "role": "mainboard"
             }
           ],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Abzan",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/abzan-1432391",
           "sample_count": 26
@@ -17086,7 +17335,7 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Mono Black",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-black-1432056",
           "sample_count": 26
@@ -17097,7 +17346,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Rakdos Lurrus",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/rakdos-lurrus-1430409",
           "sample_count": 130
@@ -17107,7 +17356,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Mono Red",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-red-1431069",
           "sample_count": 26
@@ -17118,7 +17367,7 @@
             "R"
           ],
           "decklist": [],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Izzet",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/izzet-1430466",
           "sample_count": 52
@@ -17129,22 +17378,10 @@
             "B"
           ],
           "decklist": [],
-          "meta_share": 0.0625,
+          "meta_share": 0.0667,
           "name": "Orzhov",
           "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/orzhov-1429397",
           "sample_count": 104
-        },
-        {
-          "colors": [
-            "W",
-            "B",
-            "R"
-          ],
-          "decklist": [],
-          "meta_share": 0.0625,
-          "name": "Mardu Lurrus",
-          "representative_decklist_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mardu-lurrus-1428815",
-          "sample_count": 26
         }
       ],
       "sample_size": null,
@@ -17634,11 +17871,11 @@
       "single_source": true
     }
   },
-  "generated_at": "2026-11-17T15:34:33Z",
+  "generated_at": "2026-11-18T15:12:16Z",
   "schema_version": 1,
   "sources": [
     {
-      "fetched_at": "2026-11-17T15:34:33Z",
+      "fetched_at": "2026-11-18T15:12:16Z",
       "name": "aetherhub",
       "url": "https://aetherhub.com/Metagame/"
     }
